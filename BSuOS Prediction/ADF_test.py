@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Dec 21 06:26:32 2020
-calculating the Augmented Dickey-Fuller test on the Daily Female Births dataset.
+calculating the Augmented Dickey-Fuller test on the dataset.
 @author: Gavi
 """
 from statsmodels.tsa.stattools import adfuller
